@@ -83,7 +83,7 @@ FindNow/
    Assets/Scenes/MainMenu.unity
    ```
 5. Press ▶ Play to start the game.
-
+6. I am also upload apk, if you want to play on mobile.
 ---
 
 ## 👤 Author
