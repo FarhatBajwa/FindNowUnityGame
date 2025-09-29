@@ -1,0 +1,6 @@
+Product Name:Spot It Now
+company Name/Keystroke:SIN
+packaga Name:com.SIN.SpotItNow
+password:Airi@dev01
+version,app bundle version:1
+API TARGTE=34
